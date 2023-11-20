@@ -1,0 +1,37 @@
+h1 {
+    font-size: 24pt;
+    text-align: center;
+}
+body{
+    font-size: 12pt;
+    text-align: left;
+    margin: 10px;
+    background-color:darkgrey;
+}
+ .id1{
+    text-align: left;
+    float: left;
+    margin: 0;
+    clear: both;
+}
+.p2{
+    float: left;
+    margin-left: 20px;   
+}
+.p3 {
+    float: right;
+}
+.p4{
+    clear: both;
+    color: red;
+}
+table, th, td{
+    border: 2px solid;
+    border-color: blueviolet;
+}
+.fin{
+    background-color: beige;
+    margin: 100px;
+    border:2px solid;
+    text-align: center;
+}
